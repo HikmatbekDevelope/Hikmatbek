@@ -206,7 +206,7 @@ section .title::after {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: url("./img/kampyuter rasmi.jpg") no-repeat center;
+  background: url("file:///D:/portpoliyo/portfoliyo/img/kampyuter%20rasmi.jpg") no-repeat center;
   height: 100vh;
   color: #fff;
   min-height: 500px;
